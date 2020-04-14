@@ -1,0 +1,98 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url('../fonts/montserrat/Montserrat-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url('../fonts/montserrat/Montserrat-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url('../fonts/montserrat/Montserrat-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url('../fonts/montserrat/Montserrat-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url('../fonts/montserrat/Montserrat-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url('../fonts/montserrat/Montserrat-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url('../fonts/montserrat/Montserrat-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Poppins";
+    src: url('../fonts/poppins/Poppins-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Poppins";
+    src: url('../fonts/poppins/Poppins-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Poppins";
+    src: url('../fonts/poppins/Poppins-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Poppins";
+    src: url('../fonts/poppins/Poppins-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Poppins";
+    src: url('../fonts/poppins/Poppins-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Poppins";
+    src: url('../fonts/poppins/Poppins-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-stretch: normal;
+}
+@font-face {
+    font-family: "Poppins";
+    src: url('../fonts/poppins/Poppins-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+}
